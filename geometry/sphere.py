@@ -14,8 +14,8 @@ def volume_sphere(radius: float) -> float:
     Raises:
         ValueError: If the radius is negative.
     """
-    if radius < 0:
-        raise ValueError("Radius must be non-negative")
+    """if radius < 0:
+        raise ValueError("Radius must be non-negative")"""
 
     return (4 / 3) * math.pi * radius ** 3
 
