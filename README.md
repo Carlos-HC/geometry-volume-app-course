@@ -3,6 +3,7 @@ Simulate a simple geometry volume calculator
 
 # Project Structure
 
+```
 .
  geometry/            # Logic for geometric calculations
 |   |-- __init__.py
@@ -19,6 +20,8 @@ Simulate a simple geometry volume calculator
 |-- main.py              # Entry point of the application
 |-- README.md            # Project documentation
 |-- requirements.txt     # List of dependencies
+
+```
 
 # How to Run main.py
 
